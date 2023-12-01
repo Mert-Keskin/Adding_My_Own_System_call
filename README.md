@@ -28,3 +28,5 @@ There is tab in between!
 11. Installing the kernel in /boot and grub menus "make install"
 
 12. Test your system call. I write a test.c for that.
+
+13. Check your kernel log that if it succesffully worked "dmesg   ###"
